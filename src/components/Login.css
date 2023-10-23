@@ -1,0 +1,59 @@
+.Login{
+    width: 100vw;
+    height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: gray;
+   
+    
+}
+
+.Login Form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 230px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+.Login Form h1{
+    color: grey;
+}
+.Login Form h5{
+    color: grey;
+    
+}
+.Login Form h6{
+    color: red;
+    
+}
+.Login Form Button{
+    background-color: lightblue;
+    margin-top:  10px;
+    border: none;
+    padding: 8px ;
+    cursor: pointer;
+    border-radius: 4px;
+    
+}
+
+.Login Form .Button{
+    background-color: lightblue;
+    margin-top:  10px;
+    border: none;
+    padding: 8px ;
+    cursor: pointer;
+    border-radius: 4px;
+    text-decoration: none;
+    
+}
+.Login Form Form.Group Form.Control{
+    outline: none;
+    border: none;
+}

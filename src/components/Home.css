@@ -1,0 +1,15 @@
+.Logout{
+    text-decoration: none;
+    background-color: lightblue;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: 60px;
+    
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
